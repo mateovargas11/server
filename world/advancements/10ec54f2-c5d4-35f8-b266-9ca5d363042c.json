@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2021-10-21 11:57:42 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2021-10-06 19:29:20 -0300"
@@ -167,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2021-10-21 23:03:45 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2021-10-06 19:21:32 -0300"
@@ -233,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2021-10-21 23:03:45 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2021-10-12 00:33:35 -0300"
@@ -263,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-10-21 11:28:28 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2021-10-08 11:47:13 -0300"
@@ -284,6 +308,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2021-10-06 19:43:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2021-10-21 11:28:28 -0300"
     },
     "done": true
   },
@@ -311,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2021-10-21 23:00:08 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2021-10-12 00:20:05 -0300"
@@ -326,6 +362,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2021-10-08 10:06:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2021-10-21 23:03:45 -0300"
     },
     "done": true
   },
@@ -503,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2021-10-21 11:28:28 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2021-10-06 19:22:45 -0300"
@@ -629,6 +677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2021-10-21 23:08:47 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2021-10-06 19:21:59 -0300"
@@ -738,6 +792,7 @@
       "minecraft:spider": "2021-10-06 19:48:16 -0300",
       "minecraft:piglin_brute": "2021-10-06 23:40:51 -0300",
       "minecraft:creeper": "2021-10-08 08:31:36 -0300",
+      "minecraft:evoker": "2021-10-21 23:05:02 -0300",
       "minecraft:phantom": "2021-10-09 16:08:10 -0300",
       "minecraft:zombified_piglin": "2021-10-10 23:46:40 -0300",
       "minecraft:witch": "2021-10-08 09:29:23 -0300",
@@ -746,6 +801,7 @@
       "minecraft:cave_spider": "2021-10-06 20:12:38 -0300",
       "minecraft:piglin": "2021-10-06 23:35:50 -0300",
       "minecraft:enderman": "2021-10-06 19:49:11 -0300",
+      "minecraft:vex": "2021-10-21 23:06:16 -0300",
       "minecraft:zombie": "2021-10-06 19:31:42 -0300",
       "minecraft:drowned": "2021-10-09 10:28:15 -0300",
       "minecraft:zombie_villager": "2021-10-09 16:28:24 -0300"
@@ -824,6 +880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2021-10-21 11:28:28 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2021-10-09 09:55:33 -0300"
@@ -833,6 +895,12 @@
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2021-10-08 10:48:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-10-21 23:03:45 -0300"
     },
     "done": true
   },
@@ -986,9 +1054,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2021-10-21 10:36:47 -0300"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2021-10-08 08:35:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2021-10-21 22:50:41 -0300"
     },
     "done": true
   },
@@ -1082,6 +1162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2021-10-21 11:28:28 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2021-10-07 14:08:35 -0300"
@@ -1115,6 +1201,18 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2021-10-09 15:48:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2021-10-21 11:28:28 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-10-21 11:28:28 -0300"
     },
     "done": true
   },
@@ -1256,6 +1354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2021-10-21 23:08:47 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2021-10-06 19:48:17 -0300"
@@ -1367,6 +1471,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2021-10-06 21:41:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-10-21 23:03:45 -0300"
     },
     "done": true
   },
@@ -1487,15 +1597,19 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2021-10-07 00:26:59 -0300",
+      "minecraft:snowy_mountains": "2021-10-21 22:53:33 -0300",
       "minecraft:forest": "2021-10-06 19:19:27 -0300",
       "minecraft:mountains": "2021-10-06 20:50:03 -0300",
       "minecraft:taiga": "2021-10-06 19:23:11 -0300",
       "minecraft:desert_hills": "2021-10-08 10:17:43 -0300",
       "minecraft:giant_tree_taiga": "2021-10-08 11:11:19 -0300",
       "minecraft:deep_cold_ocean": "2021-10-08 10:31:28 -0300",
+      "minecraft:snowy_tundra": "2021-10-21 22:53:30 -0300",
       "minecraft:taiga_hills": "2021-10-06 20:51:29 -0300",
       "minecraft:desert": "2021-10-08 10:00:06 -0300",
+      "minecraft:frozen_river": "2021-10-21 23:38:57 -0300",
       "minecraft:birch_forest": "2021-10-08 10:48:00 -0300",
+      "minecraft:snowy_beach": "2021-10-21 22:55:05 -0300",
       "minecraft:warm_ocean": "2021-10-14 11:57:15 -0300",
       "minecraft:deep_lukewarm_ocean": "2021-10-09 10:25:37 -0300",
       "minecraft:savanna_plateau": "2021-10-08 10:27:51 -0300",
@@ -1503,12 +1617,14 @@
       "minecraft:dark_forest": "2021-10-08 11:04:03 -0300",
       "minecraft:river": "2021-10-06 19:22:21 -0300",
       "minecraft:lukewarm_ocean": "2021-10-09 10:25:58 -0300",
+      "minecraft:snowy_taiga": "2021-10-21 22:53:34 -0300",
       "minecraft:birch_forest_hills": "2021-10-08 10:48:10 -0300",
       "minecraft:wooded_mountains": "2021-10-06 20:50:09 -0300",
       "minecraft:wooded_hills": "2021-10-06 19:32:40 -0300",
       "minecraft:giant_tree_taiga_hills": "2021-10-08 11:11:58 -0300",
       "minecraft:stone_shore": "2021-10-09 13:31:29 -0300",
       "minecraft:swamp": "2021-10-08 10:40:53 -0300",
+      "minecraft:snowy_taiga_hills": "2021-10-21 22:53:39 -0300",
       "minecraft:savanna": "2021-10-08 10:21:39 -0300",
       "minecraft:plains": "2021-10-06 19:22:22 -0300"
     },
@@ -2180,6 +2296,7 @@
       "cooked_beef": "2021-10-08 09:53:41 -0300",
       "chorus_fruit": "2021-10-12 00:33:41 -0300",
       "baked_potato": "2021-10-07 00:02:51 -0300",
+      "porkchop": "2021-10-21 12:51:19 -0300",
       "tropical_fish": "2021-10-10 22:02:18 -0300",
       "potato": "2021-10-06 23:54:28 -0300",
       "cooked_cod": "2021-10-06 20:39:09 -0300",
@@ -2193,9 +2310,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2021-10-21 22:50:41 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2021-10-06 19:19:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2021-10-21 11:57:42 -0300"
     },
     "done": true
   },
@@ -2307,6 +2436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2021-10-21 22:50:40 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2021-10-08 11:47:13 -0300"
@@ -2376,6 +2511,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2021-10-08 09:23:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2021-10-21 11:08:47 -0300"
     },
     "done": true
   },
@@ -2484,6 +2625,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2021-10-21 11:28:28 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2021-10-06 19:19:52 -0300"
@@ -2580,6 +2727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2021-10-21 23:00:08 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2021-10-08 08:39:24 -0300"
@@ -2634,6 +2787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-10-21 11:28:28 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2021-10-06 21:41:32 -0300"
@@ -2676,6 +2835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2021-10-21 23:03:45 -0300"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2021-10-06 23:25:08 -0300"
@@ -2691,6 +2856,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-10-06 19:25:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2021-10-21 23:49:00 -0300"
     },
     "done": true
   },
@@ -2727,6 +2898,12 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_the_recipe": "2021-10-08 10:14:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2021-10-21 23:03:45 -0300"
     },
     "done": true
   },
@@ -2805,6 +2982,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2021-10-06 20:40:36 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2021-10-21 22:50:40 -0300"
     },
     "done": true
   },
@@ -2937,6 +3120,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2021-10-06 19:22:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2021-10-21 10:36:47 -0300"
     },
     "done": true
   },
@@ -3144,6 +3333,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2021-10-21 11:08:47 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2021-10-06 23:30:33 -0300"
@@ -3276,6 +3471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-10-21 23:03:45 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2021-10-11 23:45:29 -0300"
@@ -3321,6 +3522,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2021-10-06 20:09:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2021-10-21 23:08:47 -0300"
     },
     "done": true
   },
@@ -3550,6 +3757,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2021-10-08 09:19:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2021-10-21 23:03:45 -0300"
     },
     "done": true
   },
